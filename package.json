@@ -55,7 +55,8 @@
           "[Clojure](#clojure)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Matlab](#matlab)"
+          "[Matlab](#matlab)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -527,6 +528,111 @@
               "10",
               "[@Manca](https://github.com/Manca)/[**face-detection**](https://github.com/Manca/face-detection)",
               "My Face Detection application written in Matlab.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "135",
+              "[@radianttap](https://github.com/radianttap)/[**WatchRingGenerator**](https://github.com/radianttap/WatchRingGenerator)",
+              "iOS app to generate series of PNG images, to be used in WatchKit apps",
+              ""
+            ],
+            [
+              "79",
+              "[@mperovic](https://github.com/mperovic)/[**KOAProgressBar**](https://github.com/mperovic/KOAProgressBar)",
+              "Custom progress bar for iOS 5.0+",
+              ""
+            ],
+            [
+              "45",
+              "[@radianttap](https://github.com/radianttap)/[**RTFlyoutMenu**](https://github.com/radianttap/RTFlyoutMenu)",
+              "Fly-out (drop-down) menu component for iPad",
+              ""
+            ],
+            [
+              "30",
+              "[@mperovic](https://github.com/mperovic)/[**PAStepper**](https://github.com/mperovic/PAStepper)",
+              "Complete replacement for UIStepper control",
+              ""
+            ],
+            [
+              "13",
+              "[@radianttap](https://github.com/radianttap)/[**RTCleanNavigationBar**](https://github.com/radianttap/RTCleanNavigationBar)",
+              "UINavigationBar subclass that removes the shadow image while retaining translucency effect in iOS 7 and up",
+              ""
+            ],
+            [
+              "12",
+              "[@radianttap](https://github.com/radianttap)/[**RTWalkthrough**](https://github.com/radianttap/RTWalkthrough)",
+              "An Objective-C clone of github/ariok/BWWalkthrough (a bit improved in the process)",
+              ""
+            ],
+            [
+              "9",
+              "[@radianttap](https://github.com/radianttap)/[**NSFileManager-Utilit…**](https://github.com/radianttap/NSFileManager-Utilities)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@radianttap](https://github.com/radianttap)/[**RTFlowLayout**](https://github.com/radianttap/RTFlowLayout)",
+              "Like UICollectionViewFlowLayout, but with additional supplementary views.",
+              ""
+            ],
+            [
+              "5",
+              "[@nmarkovic04](https://github.com/nmarkovic04)/[**Phoney**](https://github.com/nmarkovic04/Phoney)",
+              "Camera and sensor simulator library for iOS",
+              ""
+            ],
+            [
+              "4",
+              "[@radianttap](https://github.com/radianttap)/[**UITableView-NSFetche…**](https://github.com/radianttap/UITableView-NSFetchedResultsController)",
+              "UITV and NSFRC, sitting in a tree, forever happy",
+              ""
+            ],
+            [
+              "4",
+              "[@MrNickBarker](https://github.com/MrNickBarker)/[**iOSAccordionPanels**](https://github.com/MrNickBarker/iOSAccordionPanels)",
+              "Prototype of resizable accordion panels for iOS.",
+              ""
+            ],
+            [
+              "3",
+              "[@radianttap](https://github.com/radianttap)/[**RTGraphLayout**](https://github.com/radianttap/RTGraphLayout)",
+              "UICollectionViewFlowLayout subclass acting like zoomable bar chart",
+              ""
+            ],
+            [
+              "2",
+              "[@nmarkovic04](https://github.com/nmarkovic04)/[**XDNumberPicker**](https://github.com/nmarkovic04/XDNumberPicker)",
+              "NumberPicker control for iOS",
+              ""
+            ],
+            [
+              "2",
+              "[@radianttap](https://github.com/radianttap)/[**UILabel-FontName**](https://github.com/radianttap/UILabel-FontName)",
+              "UIAppearance for UILabel font name",
+              ""
+            ],
+            [
+              "2",
+              "[@radianttap](https://github.com/radianttap)/[**RTTabBarController**](https://github.com/radianttap/RTTabBarController)",
+              "Highly customizable and feature-rich replacement for UITabBarController",
               ""
             ]
           ]
