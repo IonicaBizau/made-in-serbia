@@ -38,5 +38,200 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-serbia/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-serbia#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-serbia#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1275",
+              "[@toorshia](https://github.com/toorshia)/[**justgage**](https://github.com/toorshia/justgage)",
+              "JustGage is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on Raphaël library for vector drawing.",
+              ""
+            ],
+            [
+              "1244",
+              "[@dvLden](https://github.com/dvLden)/[**Vidage**](https://github.com/dvLden/Vidage)",
+              "Your solution to full-screen background video & image combined.",
+              "[:arrow_upper_right:](https://dvLden.github.io/Vidage/)"
+            ],
+            [
+              "624",
+              "[@limonte](https://github.com/limonte)/[**sweetalert2**](https://github.com/limonte/sweetalert2)",
+              "Supported fork of t4t5/sweetalert",
+              "[:arrow_upper_right:](https://limonte.github.io/sweetalert2/)"
+            ],
+            [
+              "473",
+              "[@draganbabic](https://github.com/draganbabic)/[**uni-form**](https://github.com/draganbabic/uni-form)",
+              "Uni-Form is a framework that standardizes form markup and styles it with CSS giving you two most widely used layout options to choose from. Anyone can get nice looking, well structured, highly customizable, accessible and usable forms. To put it simply: it makes a developer's life a lot easier. Support → http://getsatisfaction.com/uni-form",
+              "[:arrow_upper_right:](http://sprawsm.com/uni-form/)"
+            ],
+            [
+              "70",
+              "[@goschevski](https://github.com/goschevski)/[**apy**](https://github.com/goschevski/apy)",
+              "Apy is a simple client-side library for making rest api ajax calls.",
+              ""
+            ],
+            [
+              "40",
+              "[@rukavina](https://github.com/rukavina)/[**live-css-editor**](https://github.com/rukavina/live-css-editor)",
+              "jquery online css editor, themeroller like tool for customizing your web page",
+              ""
+            ],
+            [
+              "32",
+              "[@stojanovic](https://github.com/stojanovic)/[**vreme**](https://github.com/stojanovic/vreme)",
+              "Date formatting by example",
+              ""
+            ],
+            [
+              "30",
+              "[@goschevski](https://github.com/goschevski)/[**vojvoda**](https://github.com/goschevski/vojvoda)",
+              "Backbone View extension for managing subviews",
+              ""
+            ],
+            [
+              "29",
+              "[@goschevski](https://github.com/goschevski)/[**fronty**](https://github.com/goschevski/fronty)",
+              "Fronty is a boilerplate for starting new front-end projects",
+              ""
+            ],
+            [
+              "17",
+              "[@goschevski](https://github.com/goschevski)/[**image-loader**](https://github.com/goschevski/image-loader)",
+              "Image loader is plugin that loads image selected by input file field without uploading it on server.",
+              ""
+            ],
+            [
+              "16",
+              "[@goschevski](https://github.com/goschevski)/[**tagster**](https://github.com/goschevski/tagster)",
+              "Tagster is simple library which is helping you create html strings with ease.",
+              ""
+            ],
+            [
+              "13",
+              "[@vranac](https://github.com/vranac)/[**responsive-screensho…**](https://github.com/vranac/responsive-screenshots)",
+              "CasperJS script for taking screenshots on responsive screensizes",
+              ""
+            ],
+            [
+              "12",
+              "[@toorshia](https://github.com/toorshia)/[**jam**](https://github.com/toorshia/jam)",
+              "JAM - Simple Facebook style menu for Sencha Touch 2 based apps",
+              ""
+            ],
+            [
+              "11",
+              "[@ManInTheBox](https://github.com/ManInTheBox)/[**nodejs.rs**](https://github.com/ManInTheBox/nodejs.rs)",
+              "Sajt srpske Node.js zajednice - Serbian Node.js community website",
+              "[:arrow_upper_right:](http://nodejs.rs)"
+            ],
+            [
+              "10",
+              "[@aleksandara](https://github.com/aleksandara)/[**yeoman-generator-req…**](https://github.com/aleksandara/yeoman-generator-requirejs-jasmine-karma)",
+              "A generator for yeoman (RequireJS, Jasmine, Karma)",
+              ""
+            ],
+            [
+              "9",
+              "[@stojanovic](https://github.com/stojanovic)/[**huh**](https://github.com/stojanovic/huh)",
+              "Random BOFH-style excuses",
+              ""
+            ],
+            [
+              "8",
+              "[@stojanovic](https://github.com/stojanovic)/[**souffleur**](https://github.com/stojanovic/souffleur)",
+              "Simple command line prompt with retry for empty answers",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/souffleur)"
+            ],
+            [
+              "8",
+              "[@kodi](https://github.com/kodi)/[**JS-Object-Expire**](https://github.com/kodi/JS-Object-Expire)",
+              "Javascript Self-Expiring Objects",
+              ""
+            ],
+            [
+              "6",
+              "[@vranac](https://github.com/vranac)/[**link-checker**](https://github.com/vranac/link-checker)",
+              "quick and dirty link checker for web page",
+              ""
+            ],
+            [
+              "6",
+              "[@stojanovic](https://github.com/stojanovic)/[**fuckyou**](https://github.com/stojanovic/fuckyou)",
+              "Kill any process (╯°□°）╯︵ ssǝɔoɹd",
+              ""
+            ],
+            [
+              "4",
+              "[@goschevski](https://github.com/goschevski)/[**gulp-base64-inline**](https://github.com/goschevski/gulp-base64-inline)",
+              "Inline images you want with base64.",
+              ""
+            ],
+            [
+              "3",
+              "[@kodi](https://github.com/kodi)/[**MVC4Node.js**](https://github.com/kodi/MVC4Node.js)",
+              "MVC Framework for Node.js",
+              ""
+            ],
+            [
+              "3",
+              "[@kodi](https://github.com/kodi)/[**nodius**](https://github.com/kodi/nodius)",
+              "Monitoring System based on Node.js",
+              ""
+            ],
+            [
+              "3",
+              "[@rubystream](https://github.com/rubystream)/[**alchemist.js**](https://github.com/rubystream/alchemist.js)",
+              "alchemist.js",
+              ""
+            ],
+            [
+              "3",
+              "[@stojanovic](https://github.com/stojanovic)/[**space-explorer-bot**](https://github.com/stojanovic/space-explorer-bot)",
+              "A small FB Messenger chat bot using NASA API and Claudia Bot Builder.",
+              "[:arrow_upper_right:](https://m.me/space-explorer-bot)"
+            ],
+            [
+              "2",
+              "[@zmilan](https://github.com/zmilan)/[**yo-generator-express…**](https://github.com/zmilan/yo-generator-express-angularjs)",
+              "Advanced AngularJS project generator for Yeoman.",
+              ""
+            ],
+            [
+              "2",
+              "[@rukavina](https://github.com/rukavina)/[**tetatet**](https://github.com/rukavina/tetatet)",
+              "WebRTC video chat",
+              ""
+            ],
+            [
+              "2",
+              "[@Gavrisimo](https://github.com/Gavrisimo)/[**psychic-meme**](https://github.com/Gavrisimo/psychic-meme)",
+              "Clone of http://dillinger.io/ using https://github.com/coreyti/showdown/",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
