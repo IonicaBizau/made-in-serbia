@@ -61,7 +61,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -1037,6 +1038,51 @@
               "5",
               "[@nmilinkovic](https://github.com/nmilinkovic)/[**Skadi**](https://github.com/nmilinkovic/Skadi)",
               "Skadi is a lightweight Dependency Injection container written in Scala",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "9",
+              "[@olujicz](https://github.com/olujicz)/[**ansible-phabricator**](https://github.com/olujicz/ansible-phabricator)",
+              "Ansible playbooks for Phabricator installations with Vagrant on Debian 7",
+              ""
+            ],
+            [
+              "6",
+              "[@olujicz](https://github.com/olujicz)/[**bash-scripts**](https://github.com/olujicz/bash-scripts)",
+              "My bash scripts",
+              ""
+            ],
+            [
+              "4",
+              "[@Paget96](https://github.com/Paget96)/[**L_SPEED**](https://github.com/Paget96/L_SPEED)",
+              "",
+              "[:arrow_upper_right:](http://forum.xda-developers.com/android/software-hacking/tweak-l-speed-v1-0-02-02-2015-t3020138)"
+            ],
+            [
+              "3",
+              "[@Paget96](https://github.com/Paget96)/[**AdBlocker**](https://github.com/Paget96/AdBlocker)",
+              "",
+              "[:arrow_upper_right:](http://forum.xda-developers.com/android/software-hacking/ads-adblocker-v1-0-t3283855)"
+            ],
+            [
+              "2",
+              "[@mekanix](https://github.com/mekanix)/[**fish**](https://github.com/mekanix/fish)",
+              "My config of fish shell",
               ""
             ]
           ]
