@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -227,6 +228,69 @@
               "2",
               "[@Gavrisimo](https://github.com/Gavrisimo)/[**psychic-meme**](https://github.com/Gavrisimo/psychic-meme)",
               "Clone of http://dillinger.io/ using https://github.com/coreyti/showdown/",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "91",
+              "[@anbud](https://github.com/anbud)/[**MarkovComposer**](https://github.com/anbud/MarkovComposer)",
+              "Algorithmic composer based on machine learning using a second order Markov chain.",
+              ""
+            ],
+            [
+              "78",
+              "[@neuroph](https://github.com/neuroph)/[**neuroph**](https://github.com/neuroph/neuroph)",
+              "Java Neural Network Framework Neuroph",
+              "[:arrow_upper_right:](http://neuroph.sourceforge.net)"
+            ],
+            [
+              "8",
+              "[@vanjakom](https://github.com/vanjakom)/[**BloomFilterExample**](https://github.com/vanjakom/BloomFilterExample)",
+              "Bloom filter implemented in Java with support for multiple hashers",
+              ""
+            ],
+            [
+              "5",
+              "[@anbud](https://github.com/anbud)/[**PxlSort**](https://github.com/anbud/PxlSort)",
+              "Pixel sorting using radix sort.",
+              ""
+            ],
+            [
+              "4",
+              "[@vanjakom](https://github.com/vanjakom)/[**MultipleOutputsExamp…**](https://github.com/vanjakom/MultipleOutputsExample)",
+              "Hadoop Multiple Outputs example",
+              ""
+            ],
+            [
+              "2",
+              "[@luksha](https://github.com/luksha)/[**push-admin-java-libr…**](https://github.com/luksha/push-admin-java-library)",
+              "push-admin-java-library",
+              ""
+            ],
+            [
+              "2",
+              "[@vanjakom](https://github.com/vanjakom)/[**HadoopPlayground**](https://github.com/vanjakom/HadoopPlayground)",
+              "this repository will handle Hadoop code",
+              ""
+            ],
+            [
+              "2",
+              "[@vanjakom](https://github.com/vanjakom)/[**base**](https://github.com/vanjakom/base)",
+              "Required projects for our architecture",
               ""
             ]
           ]
