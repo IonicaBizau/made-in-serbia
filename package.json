@@ -58,7 +58,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -803,6 +804,87 @@
               "2",
               "[@robertbasic](https://github.com/robertbasic)/[**code-samples**](https://github.com/robertbasic/code-samples)",
               "Different code samples to use in talks",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "145",
+              "[@MeanEYE](https://github.com/MeanEYE)/[**Sunflower**](https://github.com/MeanEYE/Sunflower)",
+              "Small and highly customizable twin-panel file manager for Linux with support for plugins.",
+              ""
+            ],
+            [
+              "106",
+              "[@jocicmarko](https://github.com/jocicmarko)/[**kaggle-dsb2-keras**](https://github.com/jocicmarko/kaggle-dsb2-keras)",
+              "Keras tutorial for Kaggle 2nd Annual Data Science Bowl",
+              ""
+            ],
+            [
+              "89",
+              "[@jocicmarko](https://github.com/jocicmarko)/[**ultrasound-nerve-seg…**](https://github.com/jocicmarko/ultrasound-nerve-segmentation)",
+              "Deep Learning Tutorial for Kaggle Ultrasound Nerve Segmentation competition, using Keras",
+              ""
+            ],
+            [
+              "41",
+              "[@integricho](https://github.com/integricho)/[**path-of-a-pyqter**](https://github.com/integricho/path-of-a-pyqter)",
+              "lessons on using python and qt",
+              ""
+            ],
+            [
+              "10",
+              "[@foxbunny](https://github.com/foxbunny)/[**acl.py**](https://github.com/foxbunny/acl.py)",
+              "authentication framework for web.py",
+              ""
+            ],
+            [
+              "7",
+              "[@integricho](https://github.com/integricho)/[**mutant-sample-app**](https://github.com/integricho/mutant-sample-app)",
+              "A CRUD interface for django-mutant just for demonstration",
+              ""
+            ],
+            [
+              "3",
+              "[@Atlantic777](https://github.com/Atlantic777)/[**c4sh**](https://github.com/Atlantic777/c4sh)",
+              "C4sh - cashdesk module (checkout) - Patched to work!",
+              ""
+            ],
+            [
+              "3",
+              "[@foxbunny](https://github.com/foxbunny)/[**Timetrack**](https://github.com/foxbunny/Timetrack)",
+              "Simple stupid time tracker",
+              ""
+            ],
+            [
+              "2",
+              "[@foxbunny](https://github.com/foxbunny)/[**django-sr-locale**](https://github.com/foxbunny/django-sr-locale)",
+              "Serbian translations for Django",
+              "[:arrow_upper_right:](http://groups.google.com/group/django-i18n-serbian)"
+            ],
+            [
+              "2",
+              "[@foxbunny](https://github.com/foxbunny)/[**HTTPy-RPC**](https://github.com/foxbunny/HTTPy-RPC)",
+              "Example implementation of a simple HTTP-based RPC protocol.",
+              ""
+            ],
+            [
+              "2",
+              "[@integricho](https://github.com/integricho)/[**django-skel-modular-…**](https://github.com/integricho/django-skel-modular-js-example)",
+              "an example application based on the django-skel guide, boosted with requirejs and knockout",
               ""
             ]
           ]
