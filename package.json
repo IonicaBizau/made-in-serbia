@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -292,6 +293,27 @@
               "[@vanjakom](https://github.com/vanjakom)/[**base**](https://github.com/vanjakom/base)",
               "Required projects for our architecture",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "501",
+              "[@StefanKovac](https://github.com/StefanKovac)/[**flex-layout-attribut…**](https://github.com/StefanKovac/flex-layout-attribute)",
+              "HTML layout helper based on CSS flexbox specification  — ",
+              "[:arrow_upper_right:](http://progressivered.com/fla/)"
             ]
           ]
         }
