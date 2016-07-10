@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[CSS](#css)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -399,6 +400,27 @@
               "2",
               "[@filippetrovic](https://github.com/filippetrovic)/[**UdpNinja**](https://github.com/filippetrovic/UdpNinja)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@jovanpn](https://github.com/jovanpn)/[**hashids.as**](https://github.com/jovanpn/hashids.as)",
+              "ActionScript 3 version of Hashids library from http://hashids.org/",
               ""
             ]
           ]
