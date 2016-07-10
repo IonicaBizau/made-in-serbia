@@ -57,7 +57,8 @@
           "[Haskell](#haskell)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -655,6 +656,153 @@
               "2",
               "[@FilipMiletic](https://github.com/FilipMiletic)/[**DotfilesArch**](https://github.com/FilipMiletic/DotfilesArch)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "735",
+              "[@markomarkovic](https://github.com/markomarkovic)/[**simple-php-git-deplo…**](https://github.com/markomarkovic/simple-php-git-deploy)",
+              "Automatically deploy the code using PHP and Git",
+              ""
+            ],
+            [
+              "65",
+              "[@nenad-zivkovic](https://github.com/nenad-zivkovic)/[**yii2-advanced-templa…**](https://github.com/nenad-zivkovic/yii2-advanced-template)",
+              "Yii2 improved advanced application template that can bake you cookies",
+              ""
+            ],
+            [
+              "28",
+              "[@nenad-zivkovic](https://github.com/nenad-zivkovic)/[**yii2-basic-template**](https://github.com/nenad-zivkovic/yii2-basic-template)",
+              "Yii2 improved basic application template that can bake you cookies",
+              ""
+            ],
+            [
+              "17",
+              "[@robertbasic](https://github.com/robertbasic)/[**blog-examples**](https://github.com/robertbasic/blog-examples)",
+              "",
+              "[:arrow_upper_right:](http://robertbasic.com/blog)"
+            ],
+            [
+              "10",
+              "[@robertbasic](https://github.com/robertbasic)/[**phpplaneta**](https://github.com/robertbasic/phpplaneta)",
+              "Source code behind http://phpplaneta.net/",
+              "[:arrow_upper_right:](http://phpplaneta.net/)"
+            ],
+            [
+              "9",
+              "[@markomarkovic](https://github.com/markomarkovic)/[**cakephp-plugin-confi…**](https://github.com/markomarkovic/cakephp-plugin-configurator)",
+              "CakePHP Plugin for easy database managed site-wide configurations",
+              "[:arrow_upper_right:](https://github.com/markomarkovic/cakephp-plugin-configurator)"
+            ],
+            [
+              "6",
+              "[@turshija](https://github.com/turshija)/[**KGB-Game-Panel-Resta…**](https://github.com/turshija/KGB-Game-Panel-Restarter)",
+              "Skripta pomocu koje je moguce restartovati servere koji su se zakucali, pod uslovom da su serveri kod KGB Hostinga",
+              "[:arrow_upper_right:](www.milf-cs.info/restart/)"
+            ],
+            [
+              "6",
+              "[@bojanz](https://github.com/bojanz)/[**efq_views**](https://github.com/bojanz/efq_views)",
+              "EntityFieldQuery Views Backend",
+              "[:arrow_upper_right:](efq_views)"
+            ],
+            [
+              "5",
+              "[@bojanz](https://github.com/bojanz)/[**state_machine**](https://github.com/bojanz/state_machine)",
+              "Official mirror of the drupal.org module, 8.x-1.x branch.",
+              "[:arrow_upper_right:](https://drupal.org/project/state_machine)"
+            ],
+            [
+              "4",
+              "[@el22or](https://github.com/el22or)/[**drs1**](https://github.com/el22or/drs1)",
+              "Drupal Serbia community site theme",
+              "[:arrow_upper_right:](http://drupal.rs)"
+            ],
+            [
+              "4",
+              "[@robertbasic](https://github.com/robertbasic)/[**perfi**](https://github.com/robertbasic/perfi)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@markomarkovic](https://github.com/markomarkovic)/[**cakephp-plugin-image…**](https://github.com/markomarkovic/cakephp-plugin-image_editor)",
+              "A plugin for easy image manipulation",
+              "[:arrow_upper_right:](http://github.com/markomarkovic/cakephp-plugin-image_editor)"
+            ],
+            [
+              "3",
+              "[@bojanz](https://github.com/bojanz)/[**array-object-benchma…**](https://github.com/bojanz/array-object-benchmark)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@robertbasic](https://github.com/robertbasic)/[**mockery-hard-depende…**](https://github.com/robertbasic/mockery-hard-dependency)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@ldusan84](https://github.com/ldusan84)/[**magento2-simple-prod…**](https://github.com/ldusan84/magento2-simple-product-feed)",
+              "A simple Magento 2 product feed example",
+              ""
+            ],
+            [
+              "3",
+              "[@bojanz](https://github.com/bojanz)/[**fakedin**](https://github.com/bojanz/fakedin)",
+              "FakedIn is a professional network powered by Drupal Commerce.",
+              ""
+            ],
+            [
+              "2",
+              "[@markomarkovic](https://github.com/markomarkovic)/[**cakephp-plugin-perso…**](https://github.com/markomarkovic/cakephp-plugin-persona)",
+              "Mozilla Persona CakePHP Plugin",
+              ""
+            ],
+            [
+              "2",
+              "[@bojanz](https://github.com/bojanz)/[**address**](https://github.com/bojanz/address)",
+              "Official mirror of the drupal.org module.",
+              "[:arrow_upper_right:](https://drupal.org/project/address)"
+            ],
+            [
+              "2",
+              "[@ldusan84](https://github.com/ldusan84)/[**Trip-Card-Sorter**](https://github.com/ldusan84/Trip-Card-Sorter)",
+              "Solution to common trip card sorting problem",
+              ""
+            ],
+            [
+              "2",
+              "[@ldusan84](https://github.com/ldusan84)/[**DusanSimpleBundle**](https://github.com/ldusan84/DusanSimpleBundle)",
+              "OroCRM Simple CRUD bundle",
+              ""
+            ],
+            [
+              "2",
+              "[@grakic](https://github.com/grakic)/[**meetrq**](https://github.com/grakic/meetrq)",
+              "Meeting request form - Sample Laravel 5 web app ",
+              ""
+            ],
+            [
+              "2",
+              "[@robertbasic](https://github.com/robertbasic)/[**code-samples**](https://github.com/robertbasic/code-samples)",
+              "Different code samples to use in talks",
               ""
             ]
           ]
