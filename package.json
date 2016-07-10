@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[CSS](#css)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -365,6 +366,39 @@
               "2",
               "[@bmanojlovic](https://github.com/bmanojlovic)/[**sendsms**](https://github.com/bmanojlovic/sendsms)",
               "SMS client server application that extends smstools package",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@dancsi](https://github.com/dancsi)/[**PedestrianSimulator**](https://github.com/dancsi/PedestrianSimulator)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@al3ksandar](https://github.com/al3ksandar)/[**AckoOS**](https://github.com/al3ksandar/AckoOS)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@filippetrovic](https://github.com/filippetrovic)/[**UdpNinja**](https://github.com/filippetrovic/UdpNinja)",
+              "",
               ""
             ]
           ]
