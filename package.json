@@ -59,7 +59,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -885,6 +886,135 @@
               "2",
               "[@integricho](https://github.com/integricho)/[**django-skel-modular-…**](https://github.com/integricho/django-skel-modular-js-example)",
               "an example application based on the django-skel guide, boosted with requirejs and knockout",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "100",
+              "[@bosko](https://github.com/bosko)/[**rmre**](https://github.com/bosko/rmre)",
+              "Rails 3 models reverse engineering",
+              ""
+            ],
+            [
+              "88",
+              "[@inem](https://github.com/inem)/[**tequila**](https://github.com/inem/tequila)",
+              "Powerful HAML-like JSON generation language",
+              "[:arrow_upper_right:](http://inem.github.com/tequila.html)"
+            ],
+            [
+              "31",
+              "[@inem](https://github.com/inem)/[**xilence**](https://github.com/inem/xilence)",
+              "Rails backtrace silencer for ajax requests ",
+              "[:arrow_upper_right:](http://inem.github.com/xilence.html)"
+            ],
+            [
+              "24",
+              "[@inem](https://github.com/inem)/[**handcar**](https://github.com/inem/handcar)",
+              "Server-side console.log() for your Rails application",
+              "[:arrow_upper_right:](http://inem.github.com/handcar.html)"
+            ],
+            [
+              "22",
+              "[@markoa](https://github.com/markoa)/[**r2flickr**](https://github.com/markoa/r2flickr)",
+              "r2flickr is a Ruby implementation of the Flickr API, forked from rflickr.",
+              ""
+            ],
+            [
+              "6",
+              "[@markoa](https://github.com/markoa)/[**rspec-intro**](https://github.com/markoa/rspec-intro)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@bosko](https://github.com/bosko)/[**gem-exefy**](https://github.com/bosko/gem-exefy)",
+              "RubyGems plugin for replacing Windows batch files used in Gems with executables with same name.",
+              ""
+            ],
+            [
+              "6",
+              "[@miloshadzic](https://github.com/miloshadzic)/[**pasta**](https://github.com/miloshadzic/pasta)",
+              "Silly pastebin-like sinatra application",
+              ""
+            ],
+            [
+              "5",
+              "[@jablan](https://github.com/jablan)/[**spreadshoot**](https://github.com/jablan/spreadshoot)",
+              "Ruby DSL for creating Excel spreadsheets",
+              ""
+            ],
+            [
+              "5",
+              "[@markoa](https://github.com/markoa)/[**gradmx**](https://github.com/markoa/gradmx)",
+              "University project, Rails and Tokyo Cabinet exploration on a minimal event platform",
+              ""
+            ],
+            [
+              "4",
+              "[@inem](https://github.com/inem)/[**lazibi**](https://github.com/inem/lazibi)",
+              "Lazibi is a pre-processor that allows one to use Python style indenting in Ruby.",
+              "[:arrow_upper_right:](http://lazibi.rubyforge.org/index.html)"
+            ],
+            [
+              "4",
+              "[@markoa](https://github.com/markoa)/[**scripts**](https://github.com/markoa/scripts)",
+              "Tumblr client script, and more to come",
+              ""
+            ],
+            [
+              "4",
+              "[@jablan](https://github.com/jablan)/[**collectinject**](https://github.com/jablan/collectinject)",
+              "CollectInject - a tiny MapReduce implementation in Ruby",
+              ""
+            ],
+            [
+              "3",
+              "[@jablan](https://github.com/jablan)/[**blue_colr**](https://github.com/jablan/blue_colr)",
+              "Database based process launcher",
+              ""
+            ],
+            [
+              "3",
+              "[@jablan](https://github.com/jablan)/[**polumenta**](https://github.com/jablan/polumenta)",
+              "Polumenta generator clone",
+              ""
+            ],
+            [
+              "3",
+              "[@jablan](https://github.com/jablan)/[**sequel_diff**](https://github.com/jablan/sequel_diff)",
+              "Web app for diffing the data in the database",
+              ""
+            ],
+            [
+              "3",
+              "[@inem](https://github.com/inem)/[**gitforms**](https://github.com/inem/gitforms)",
+              "Easy way to contribute to open source projects",
+              ""
+            ],
+            [
+              "3",
+              "[@markoa](https://github.com/markoa)/[**tabla**](https://github.com/markoa/tabla)",
+              "Lightweight note-taking app with wiki capabilities built with Rails",
+              ""
+            ],
+            [
+              "2",
+              "[@markoa](https://github.com/markoa)/[**chef-solo-mnmal**](https://github.com/markoa/chef-solo-mnmal)",
+              "Minimal working configuration for chef-solo.",
               ""
             ]
           ]
