@@ -56,7 +56,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -633,6 +634,27 @@
               "2",
               "[@radianttap](https://github.com/radianttap)/[**RTTabBarController**](https://github.com/radianttap/RTTabBarController)",
               "Highly customizable and feature-rich replacement for UITabBarController",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@FilipMiletic](https://github.com/FilipMiletic)/[**DotfilesArch**](https://github.com/FilipMiletic/DotfilesArch)",
+              "",
               ""
             ]
           ]
