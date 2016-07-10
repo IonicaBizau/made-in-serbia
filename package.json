@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[C](undefined)"
         ]
       },
       {
@@ -314,6 +315,57 @@
               "[@StefanKovac](https://github.com/StefanKovac)/[**flex-layout-attribut…**](https://github.com/StefanKovac/flex-layout-attribute)",
               "HTML layout helper based on CSS flexbox specification  — ",
               "[:arrow_upper_right:](http://progressivered.com/fla/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "21",
+              "[@bmanojlovic](https://github.com/bmanojlovic)/[**log4c**](https://github.com/bmanojlovic/log4c)",
+              "Fork of Log4c project ",
+              "[:arrow_upper_right:](http://sourceforge.net/projects/log4c/)"
+            ],
+            [
+              "14",
+              "[@TheDushan](https://github.com/TheDushan)/[**OpenWolf**](https://github.com/TheDushan/OpenWolf)",
+              "OpenWolf is a Wolfenstein: Enemy Territory game modification based on ET-GPL.",
+              ""
+            ],
+            [
+              "7",
+              "[@bmanojlovic](https://github.com/bmanojlovic)/[**mod_authn_dovecot**](https://github.com/bmanojlovic/mod_authn_dovecot)",
+              "Apache authentication against Dovecot authentication daemon",
+              "[:arrow_upper_right:](http://steki.net/)"
+            ],
+            [
+              "5",
+              "[@ljmocic](https://github.com/ljmocic)/[**PJiSP**](https://github.com/ljmocic/PJiSP)",
+              "E2 - Programski jezici i strukture podataka",
+              "[:arrow_upper_right:](http://www.acs.uns.ac.rs/sr/pjisp)"
+            ],
+            [
+              "4",
+              "[@dezelin](https://github.com/dezelin)/[**liboptical**](https://github.com/dezelin/liboptical)",
+              "Library written in C programming language for burning CD-R, CD-RW, DVD-R, DVD+R, DVD-RW, DVD+RW, DVD-RAM, Blue Ray and many other types of optical media.  Supports POSIX, BSD and Win32 operating systems.",
+              ""
+            ],
+            [
+              "2",
+              "[@bmanojlovic](https://github.com/bmanojlovic)/[**sendsms**](https://github.com/bmanojlovic/sendsms)",
+              "SMS client server application that extends smstools package",
+              ""
             ]
           ]
         }
