@@ -52,7 +52,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[Go](#go)"
         ]
       },
       {
@@ -449,6 +450,33 @@
               "2",
               "[@nevenavv](https://github.com/nevenavv)/[**OWand**](https://github.com/nevenavv/OWand)",
               "Dev tool/Leiningen plugin for Magic Potion <-> OWL transformation.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "25",
+              "[@scyth](https://github.com/scyth)/[**go-webproject**](https://github.com/scyth/go-webproject)",
+              "Web application framework written in Go Programming Language",
+              "[:arrow_upper_right:](http://go-webproject.appspot.com)"
+            ],
+            [
+              "23",
+              "[@fastfn](https://github.com/fastfn)/[**dendrite**](https://github.com/fastfn/dendrite)",
+              "Dendrite is a Go package that implements distributed hash table (DHT) based on Chord Protocol. ",
               ""
             ]
           ]
