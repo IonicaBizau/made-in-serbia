@@ -54,7 +54,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -505,6 +506,27 @@
               "5",
               "[@hepek](https://github.com/hepek)/[**MPEG-TS**](https://github.com/hepek/MPEG-TS)",
               "Haskell implementation of mpegts parser",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "10",
+              "[@Manca](https://github.com/Manca)/[**face-detection**](https://github.com/Manca/face-detection)",
+              "My Face Detection application written in Matlab.",
               ""
             ]
           ]
