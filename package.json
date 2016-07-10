@@ -51,7 +51,8 @@
           "[CSS](#css)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -421,6 +422,33 @@
               "2",
               "[@jovanpn](https://github.com/jovanpn)/[**hashids.as**](https://github.com/jovanpn/hashids.as)",
               "ActionScript 3 version of Hashids library from http://hashids.org/",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "11",
+              "[@goranjovic](https://github.com/goranjovic)/[**chromeclojure**](https://github.com/goranjovic/chromeclojure)",
+              "A Clojure Plugin for Google Chrome.",
+              ""
+            ],
+            [
+              "2",
+              "[@nevenavv](https://github.com/nevenavv)/[**OWand**](https://github.com/nevenavv/OWand)",
+              "Dev tool/Leiningen plugin for Magic Potion <-> OWL transformation.",
               ""
             ]
           ]
