@@ -60,7 +60,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -1015,6 +1016,27 @@
               "2",
               "[@markoa](https://github.com/markoa)/[**chef-solo-mnmal**](https://github.com/markoa/chef-solo-mnmal)",
               "Minimal working configuration for chef-solo.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@nmilinkovic](https://github.com/nmilinkovic)/[**Skadi**](https://github.com/nmilinkovic/Skadi)",
+              "Skadi is a lightweight Dependency Injection container written in Scala",
               ""
             ]
           ]
