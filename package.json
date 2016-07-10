@@ -62,7 +62,8 @@
           "[Python](#python)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -1083,6 +1084,33 @@
               "2",
               "[@mekanix](https://github.com/mekanix)/[**fish**](https://github.com/mekanix/fish)",
               "My config of fish shell",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@vlasar](https://github.com/vlasar)/[**vim-web-dev**](https://github.com/vlasar/vim-web-dev)",
+              "vim configuration suited for web development",
+              ""
+            ],
+            [
+              "2",
+              "[@sfsgagi](https://github.com/sfsgagi)/[**gitvim**](https://github.com/sfsgagi/gitvim)",
+              "My vim",
               ""
             ]
           ]
