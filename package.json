@@ -53,7 +53,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -477,6 +478,33 @@
               "23",
               "[@fastfn](https://github.com/fastfn)/[**dendrite**](https://github.com/fastfn/dendrite)",
               "Dendrite is a Go package that implements distributed hash table (DHT) based on Chord Protocol. ",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "6",
+              "[@hepek](https://github.com/hepek)/[**Ramblings**](https://github.com/hepek/Ramblings)",
+              "Random posts on Haskell, Scheme and stuff",
+              ""
+            ],
+            [
+              "5",
+              "[@hepek](https://github.com/hepek)/[**MPEG-TS**](https://github.com/hepek/MPEG-TS)",
+              "Haskell implementation of mpegts parser",
               ""
             ]
           ]
