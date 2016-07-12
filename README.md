@@ -26,7 +26,7 @@
  - [Shell](#shell)
  - [VimL](#viml)
 
-### JavaScript #
+### JavaScript ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1275 | [@toorshia](https://github.com/toorshia)/[**justgage**](https://github.com/toorshia/justgage) | JustGage is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges. It is based on Raphaël library for vector drawing. |
@@ -57,7 +57,7 @@
 2 | [@zmilan](https://github.com/zmilan)/[**yo-generator-express…**](https://github.com/zmilan/yo-generator-express-angularjs) | Advanced AngularJS project generator for Yeoman. |
 2 | [@rukavina](https://github.com/rukavina)/[**tetatet**](https://github.com/rukavina/tetatet) | WebRTC video chat |
 2 | [@Gavrisimo](https://github.com/Gavrisimo)/[**psychic-meme**](https://github.com/Gavrisimo/psychic-meme) | Clone of http://dillinger.io/ using https://github.com/coreyti/showdown/ |
-### Java #
+### Java ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 91 | [@anbud](https://github.com/anbud)/[**MarkovComposer**](https://github.com/anbud/MarkovComposer) | Algorithmic composer based on machine learning using a second order Markov chain. |
@@ -68,11 +68,11 @@
 2 | [@luksha](https://github.com/luksha)/[**push-admin-java-libr…**](https://github.com/luksha/push-admin-java-library) | push-admin-java-library |
 2 | [@vanjakom](https://github.com/vanjakom)/[**HadoopPlayground**](https://github.com/vanjakom/HadoopPlayground) | this repository will handle Hadoop code |
 2 | [@vanjakom](https://github.com/vanjakom)/[**base**](https://github.com/vanjakom/base) | Required projects for our architecture |
-### CSS #
+### CSS ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 501 | [@StefanKovac](https://github.com/StefanKovac)/[**flex-layout-attribut…**](https://github.com/StefanKovac/flex-layout-attribute) | HTML layout helper based on CSS flexbox specification  —  | [:arrow_upper_right:](http://progressivered.com/fla/)
-### C #
+### C ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 21 | [@bmanojlovic](https://github.com/bmanojlovic)/[**log4c**](https://github.com/bmanojlovic/log4c) | Fork of Log4c project  | [:arrow_upper_right:](http://sourceforge.net/projects/log4c/)
@@ -81,36 +81,36 @@
 5 | [@ljmocic](https://github.com/ljmocic)/[**PJiSP**](https://github.com/ljmocic/PJiSP) | E2 - Programski jezici i strukture podataka | [:arrow_upper_right:](http://www.acs.uns.ac.rs/sr/pjisp)
 4 | [@dezelin](https://github.com/dezelin)/[**liboptical**](https://github.com/dezelin/liboptical) | Library written in C programming language for burning CD-R, CD-RW, DVD-R, DVD+R, DVD-RW, DVD+RW, DVD-RAM, Blue Ray and many other types of optical media.  Supports POSIX, BSD and Win32 operating systems. |
 2 | [@bmanojlovic](https://github.com/bmanojlovic)/[**sendsms**](https://github.com/bmanojlovic/sendsms) | SMS client server application that extends smstools package |
-### C++ #
+### C++ ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@dancsi](https://github.com/dancsi)/[**PedestrianSimulator**](https://github.com/dancsi/PedestrianSimulator) |  |
 2 | [@al3ksandar](https://github.com/al3ksandar)/[**AckoOS**](https://github.com/al3ksandar/AckoOS) |  |
 2 | [@filippetrovic](https://github.com/filippetrovic)/[**UdpNinja**](https://github.com/filippetrovic/UdpNinja) |  |
-### ActionScript #
+### ActionScript ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@jovanpn](https://github.com/jovanpn)/[**hashids.as**](https://github.com/jovanpn/hashids.as) | ActionScript 3 version of Hashids library from http://hashids.org/ |
-### Clojure #
+### Clojure ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 11 | [@goranjovic](https://github.com/goranjovic)/[**chromeclojure**](https://github.com/goranjovic/chromeclojure) | A Clojure Plugin for Google Chrome. |
 2 | [@nevenavv](https://github.com/nevenavv)/[**OWand**](https://github.com/nevenavv/OWand) | Dev tool/Leiningen plugin for Magic Potion <-> OWL transformation. |
-### Go #
+### Go ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 25 | [@scyth](https://github.com/scyth)/[**go-webproject**](https://github.com/scyth/go-webproject) | Web application framework written in Go Programming Language | [:arrow_upper_right:](http://go-webproject.appspot.com)
 23 | [@fastfn](https://github.com/fastfn)/[**dendrite**](https://github.com/fastfn/dendrite) | Dendrite is a Go package that implements distributed hash table (DHT) based on Chord Protocol.  |
-### Haskell #
+### Haskell ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6 | [@hepek](https://github.com/hepek)/[**Ramblings**](https://github.com/hepek/Ramblings) | Random posts on Haskell, Scheme and stuff |
 5 | [@hepek](https://github.com/hepek)/[**MPEG-TS**](https://github.com/hepek/MPEG-TS) | Haskell implementation of mpegts parser |
-### Matlab #
+### Matlab ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 10 | [@Manca](https://github.com/Manca)/[**face-detection**](https://github.com/Manca/face-detection) | My Face Detection application written in Matlab. |
-### Objective-C #
+### Objective-C ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 135 | [@radianttap](https://github.com/radianttap)/[**WatchRingGenerator**](https://github.com/radianttap/WatchRingGenerator) | iOS app to generate series of PNG images, to be used in WatchKit apps |
@@ -128,11 +128,11 @@
 2 | [@nmarkovic04](https://github.com/nmarkovic04)/[**XDNumberPicker**](https://github.com/nmarkovic04/XDNumberPicker) | NumberPicker control for iOS |
 2 | [@radianttap](https://github.com/radianttap)/[**UILabel-FontName**](https://github.com/radianttap/UILabel-FontName) | UIAppearance for UILabel font name |
 2 | [@radianttap](https://github.com/radianttap)/[**RTTabBarController**](https://github.com/radianttap/RTTabBarController) | Highly customizable and feature-rich replacement for UITabBarController |
-### Perl #
+### Perl ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@FilipMiletic](https://github.com/FilipMiletic)/[**DotfilesArch**](https://github.com/FilipMiletic/DotfilesArch) |  |
-### PHP #
+### PHP ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 735 | [@markomarkovic](https://github.com/markomarkovic)/[**simple-php-git-deplo…**](https://github.com/markomarkovic/simple-php-git-deploy) | Automatically deploy the code using PHP and Git |
@@ -157,7 +157,7 @@
 2 | [@ldusan84](https://github.com/ldusan84)/[**DusanSimpleBundle**](https://github.com/ldusan84/DusanSimpleBundle) | OroCRM Simple CRUD bundle |
 2 | [@grakic](https://github.com/grakic)/[**meetrq**](https://github.com/grakic/meetrq) | Meeting request form - Sample Laravel 5 web app  |
 2 | [@robertbasic](https://github.com/robertbasic)/[**code-samples**](https://github.com/robertbasic/code-samples) | Different code samples to use in talks |
-### Python #
+### Python ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 145 | [@MeanEYE](https://github.com/MeanEYE)/[**Sunflower**](https://github.com/MeanEYE/Sunflower) | Small and highly customizable twin-panel file manager for Linux with support for plugins. |
@@ -171,7 +171,7 @@
 2 | [@foxbunny](https://github.com/foxbunny)/[**django-sr-locale**](https://github.com/foxbunny/django-sr-locale) | Serbian translations for Django | [:arrow_upper_right:](http://groups.google.com/group/django-i18n-serbian)
 2 | [@foxbunny](https://github.com/foxbunny)/[**HTTPy-RPC**](https://github.com/foxbunny/HTTPy-RPC) | Example implementation of a simple HTTP-based RPC protocol. |
 2 | [@integricho](https://github.com/integricho)/[**django-skel-modular-…**](https://github.com/integricho/django-skel-modular-js-example) | an example application based on the django-skel guide, boosted with requirejs and knockout |
-### Ruby #
+### Ruby ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 100 | [@bosko](https://github.com/bosko)/[**rmre**](https://github.com/bosko/rmre) | Rails 3 models reverse engineering |
@@ -193,11 +193,11 @@
 3 | [@inem](https://github.com/inem)/[**gitforms**](https://github.com/inem/gitforms) | Easy way to contribute to open source projects |
 3 | [@markoa](https://github.com/markoa)/[**tabla**](https://github.com/markoa/tabla) | Lightweight note-taking app with wiki capabilities built with Rails |
 2 | [@markoa](https://github.com/markoa)/[**chef-solo-mnmal**](https://github.com/markoa/chef-solo-mnmal) | Minimal working configuration for chef-solo. |
-### Scala #
+### Scala ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 5 | [@nmilinkovic](https://github.com/nmilinkovic)/[**Skadi**](https://github.com/nmilinkovic/Skadi) | Skadi is a lightweight Dependency Injection container written in Scala |
-### Shell #
+### Shell ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 9 | [@olujicz](https://github.com/olujicz)/[**ansible-phabricator**](https://github.com/olujicz/ansible-phabricator) | Ansible playbooks for Phabricator installations with Vagrant on Debian 7 |
@@ -205,7 +205,7 @@
 4 | [@Paget96](https://github.com/Paget96)/[**L_SPEED**](https://github.com/Paget96/L_SPEED) |  | [:arrow_upper_right:](http://forum.xda-developers.com/android/software-hacking/tweak-l-speed-v1-0-02-02-2015-t3020138)
 3 | [@Paget96](https://github.com/Paget96)/[**AdBlocker**](https://github.com/Paget96/AdBlocker) |  | [:arrow_upper_right:](http://forum.xda-developers.com/android/software-hacking/ads-adblocker-v1-0-t3283855)
 2 | [@mekanix](https://github.com/mekanix)/[**fish**](https://github.com/mekanix/fish) | My config of fish shell |
-### VimL #
+### VimL ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@vlasar](https://github.com/vlasar)/[**vim-web-dev**](https://github.com/vlasar/vim-web-dev) | vim configuration suited for web development |
