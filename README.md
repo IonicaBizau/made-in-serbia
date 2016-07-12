@@ -10,7 +10,7 @@
  - [JavaScript](#javascript)
  - [Java](#java)
  - [CSS](#css)
- - [C](undefined)
+ - [C](#c)
  - [C++](#c-2)
  - [ActionScript](#actionscript)
  - [Clojure](#clojure)
