@@ -25,6 +25,7 @@
  - [Scala](#scala)
  - [Shell](#shell)
  - [VimL](#viml)
+
 ### JavaScript ###
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
