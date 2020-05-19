@@ -172,7 +172,6 @@
 10 | [@robertbasic](https://github.com/robertbasic)/[**phpplaneta**](https://github.com/robertbasic/phpplaneta) | Source code behind http://phpplaneta.net/ | [:arrow_upper_right:](http://phpplaneta.net/)
 9 | [@markomarkovic](https://github.com/markomarkovic)/[**cakephp-plugin-confi…**](https://github.com/markomarkovic/cakephp-plugin-configurator) | CakePHP Plugin for easy database managed site-wide configurations | [:arrow_upper_right:](https://github.com/markomarkovic/cakephp-plugin-configurator)
 6 | [@turshija](https://github.com/turshija)/[**KGB-Game-Panel-Resta…**](https://github.com/turshija/KGB-Game-Panel-Restarter) | Skripta pomocu koje je moguce restartovati servere koji su se zakucali, pod uslovom da su serveri kod KGB Hostinga | [:arrow_upper_right:](www.milf-cs.info/restart/)
-6 | [@bojanz](https://github.com/bojanz)/[**efq_views**](https://github.com/bojanz/efq_views) | EntityFieldQuery Views Backend | [:arrow_upper_right:](efq_views)
 5 | [@bojanz](https://github.com/bojanz)/[**state_machine**](https://github.com/bojanz/state_machine) | Official mirror of the drupal.org module, 8.x-1.x branch. | [:arrow_upper_right:](https://drupal.org/project/state_machine)
 4 | [@el22or](https://github.com/el22or)/[**drs1**](https://github.com/el22or/drs1) | Drupal Serbia community site theme | [:arrow_upper_right:](http://drupal.rs)
 4 | [@robertbasic](https://github.com/robertbasic)/[**perfi**](https://github.com/robertbasic/perfi) |  |
