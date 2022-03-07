@@ -98,6 +98,7 @@
 6 | [@vranac](https://github.com/vranac)/[**link-checker**](https://github.com/vranac/link-checker) | quick and dirty link checker for web page |
 6 | [@stojanovic](https://github.com/stojanovic)/[**fuckyou**](https://github.com/stojanovic/fuckyou) | Kill any process (╯°□°）╯︵ ssǝɔoɹd |
 4 | [@goschevski](https://github.com/goschevski)/[**gulp-base64-inline**](https://github.com/goschevski/gulp-base64-inline) | Inline images you want with base64. |
+4 | [@rvision](https://github.com/rvision)/[**useForm**](https://github.com/rvision/useForm) | React forms utility library, lightweight alternative to existing frameworks. | [:arrow_upper_right:](https://k7s4y.csb.app/)
 3 | [@kodi](https://github.com/kodi)/[**MVC4Node.js**](https://github.com/kodi/MVC4Node.js) | MVC Framework for Node.js |
 3 | [@kodi](https://github.com/kodi)/[**nodius**](https://github.com/kodi/nodius) | Monitoring System based on Node.js |
 3 | [@rubystream](https://github.com/rubystream)/[**alchemist.js**](https://github.com/rubystream/alchemist.js) | alchemist.js |
